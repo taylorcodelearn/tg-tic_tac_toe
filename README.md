@@ -1,5 +1,5 @@
 # tg-tic_tac_toe
-A simple tic-tac-toe game written in java/javascript
+A simple tic-tac-toe game written in javascript with HTML & CSS
 
 # components:
 index.html = the html file for the game, including titles, headers, grid design and placement, button design and placement, etc.
